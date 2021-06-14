@@ -1,13 +1,10 @@
-#html1{
+html{
     scroll-behavior: smooth;
     
 }
 
-
-#navbar-haut{
-    white-space: nowrap;
-}
 #nav{
+    white-space: nowrap;
     position: fixed;
     width: 100%;
     z-index: 1;
